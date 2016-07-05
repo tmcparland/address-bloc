@@ -16,6 +16,9 @@
            end
        end
        
+       
+       
+       
        @entries.delete(delete_entry)
    end 
     
