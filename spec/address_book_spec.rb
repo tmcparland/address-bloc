@@ -34,6 +34,7 @@
      expect(book.entries.first.name).to eq("Tara McParland")
     end
    end
+   
 
    describe "#add_entry" do
      it "adds only one entry to the address book" do

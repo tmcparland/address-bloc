@@ -15,10 +15,7 @@
                delete_entry = entry
            end
        end
-       
-       
-       
-       
+      
        @entries.delete(delete_entry)
    end 
     
